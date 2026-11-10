@@ -1,0 +1,2 @@
+# Solo necesario si usas MySQL (DB_ENGINE=mysql). Con SQLite no se requiere nada.
+mysql-connector-python>=8.0
